@@ -1,4 +1,9 @@
 This is my first sapmle filee created from Terminal using linux command
 Adding line to test
+<<<<<<< HEAD
 Adding line to check whetherit will as me un & Pw while pushing changes to central repo
 addinga  new line to push change from master branch
+=======
+Adding line to check defects1 branch
+Adding changes to check the merge
+>>>>>>> defects1
