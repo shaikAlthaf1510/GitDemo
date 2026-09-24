@@ -6,4 +6,8 @@ addinga  new line to push change from master branch
 =======
 Adding line to check defects1 branch
 Adding changes to check the merge
+<<<<<<< HEAD
+>>>>>>> defects1
+=======
+Adding line2 to check changes from defects1 to master
 >>>>>>> defects1
