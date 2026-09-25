@@ -2,6 +2,7 @@ This is my first sapmle filee created from Terminal using linux command
 Adding line to test
 <<<<<<< HEAD
 Adding line to check whetherit will as me un & Pw while pushing changes to central repo
+<<<<<<< HEAD
 addinga  new line to push change from master branch
 =======
 Adding line to check defects1 branch
@@ -15,3 +16,6 @@ Adding line2 to check changes from defects1 to master
 =======
 Adding line in samplefile from defects1
 >>>>>>> defects1
+=======
+Adding line in sample file from features1
+>>>>>>> e41adea (changes in sample file from features1)
