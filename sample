@@ -10,4 +10,8 @@ Adding changes to check the merge
 >>>>>>> defects1
 =======
 Adding line2 to check changes from defects1 to master
+<<<<<<< HEAD
+>>>>>>> defects1
+=======
+Adding line in samplefile from defects1
 >>>>>>> defects1
